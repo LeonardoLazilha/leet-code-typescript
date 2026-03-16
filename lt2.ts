@@ -54,4 +54,4 @@ function romanToInt(s: string): number {
 
 };
 
-console.log(romanToInt("IV"))
+console.log(romanToInt(""))
